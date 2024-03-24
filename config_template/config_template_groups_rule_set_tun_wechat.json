@@ -503,7 +503,7 @@
       },
       {
         "rule_set": "geosite-wechat",
-        "outbound": "BiliBili"
+        "outbound": "China"
       },
       {
         "rule_set": "geosite-bahamut",
